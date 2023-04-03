@@ -1,6 +1,3 @@
-# movie
-react movie-app
-
 # moive app
 React를 이용한 영화정보 제공 서비스
 
